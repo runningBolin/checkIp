@@ -12,6 +12,7 @@ public class GetPhysicalAddress {
 	private static final int PHYSICALLENGTH = 16;
 	
 	private static ArrayList<String> result;
+	
 
 	/**
 	 * @author bolin
